@@ -30,3 +30,5 @@ git clone https://github.com/tensorflow/models.git
 ````
 python model_main_tf2.py --pipeline_config_path=training/ssd_efficientdet_d0_512x512_coco17_tpu-8.config --model_dir=training --alsologtostderr
 ````
+
+[Reference](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
