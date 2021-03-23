@@ -42,3 +42,10 @@ python exporter_main_v2.py --trained_checkpoint_dir=training --pipeline_config_p
 ````
 
 [Reference](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
+
+# Other handy script/tools
+1. To check the gpu is available or not
+````
+import tensorflow as tf
+tf.config.list_physical_devices('GPU')
+````
