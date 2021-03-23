@@ -36,6 +36,9 @@ python model_main_tf2.py --pipeline_config_path=training/ssd_efficientdet_d0_512
 tensorboard --logdir=training/train
 ````
 
-
+## Exporting the inference
+````
+python exporter_main_v2.py --trained_checkpoint_dir=training --pipeline_config_path=training/ssd_efficientdet_d0_512x512_coco17_tpu-8.config --output_directory inference_graph
+````
 
 [Reference](https://gilberttanner.com/blog/tensorflow-object-detection-with-tensorflow-2-creating-a-custom-model)
