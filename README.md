@@ -1,4 +1,6 @@
 # tensor_flow
+## GPU Preparation
+1. pleas follow accordingly the CUDA and CUDnn version as [here](https://www.tensorflow.org/install/source#gpu)
 
 ## Tensor flow preparation
 
