@@ -1,7 +1,7 @@
 # tensor_flow
 ## GPU Preparation
 1. Check the CUDA and CUDnn version compatibality that you need
-(https://www.tensorflow.org/install/source#gpu)[https://www.tensorflow.org/install/source#gpu]
+[https://www.tensorflow.org/install/source#gpu](https://www.tensorflow.org/install/source#gpu)
 
 2. the NVIDIA CUDA Toolkit
 (https://developer.nvidia.com/cuda-toolkit-archive)[https://developer.nvidia.com/cuda-toolkit-archive]
@@ -16,7 +16,7 @@ conda create --name tf_2.4 python==3.8
 pip install tensorflow
 
 6. Test using this link
-(https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py)[https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py]
+[https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py)
 
 
 
