@@ -2,6 +2,8 @@
 ## GPU Preparation
 1. pleas follow accordingly the CUDA and CUDnn version as [here](https://www.tensorflow.org/install/source#gpu)
 
+[Reference 1](https://www.youtube.com/watch?v=hHWkvEcDBO0)
+
 ## Tensor flow preparation
 
 1. clone tensorflow model
