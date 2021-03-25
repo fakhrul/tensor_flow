@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>NVR_ch1_main_20201020030000_20201020040000</folder>
+	<filename>041.jpg</filename>
+	<path>E:\TO LABEL\NVR_ch1_main_20201020030000_20201020040000\out_0067.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>type_lorry_large</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>
