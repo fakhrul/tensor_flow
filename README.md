@@ -4,10 +4,10 @@
 [https://www.tensorflow.org/install/source#gpu](https://www.tensorflow.org/install/source#gpu)
 
 2. the NVIDIA CUDA Toolkit
-(https://developer.nvidia.com/cuda-toolkit-archive)[https://developer.nvidia.com/cuda-toolkit-archive]
+[https://developer.nvidia.com/cuda-toolkit-archive](https://developer.nvidia.com/cuda-toolkit-archive)
 
 3. NVIDIA cuDNN
-(https://developer.nvidia.com/cudnn)[https://developer.nvidia.com/cudnn]
+[https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)
 
 4. Python (check compatible version from first link)
 conda create --name tf_2.4 python==3.8
