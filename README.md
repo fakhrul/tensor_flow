@@ -1,6 +1,24 @@
 # tensor_flow
 ## GPU Preparation
-1. pleas follow accordingly the CUDA and CUDnn version as [here](https://www.tensorflow.org/install/source#gpu)
+1. Check the CUDA and CUDnn version compatibality that you need
+(https://www.tensorflow.org/install/source#gpu)[https://www.tensorflow.org/install/source#gpu]
+
+2. the NVIDIA CUDA Toolkit
+(https://developer.nvidia.com/cuda-toolkit-archive)[https://developer.nvidia.com/cuda-toolkit-archive]
+
+3. NVIDIA cuDNN
+(https://developer.nvidia.com/cudnn)[https://developer.nvidia.com/cudnn]
+
+4. Python (check compatible version from first link)
+conda create --name tf_2.4 python==3.8
+
+5. Tensorflow (with GPU support)
+pip install tensorflow
+
+6. Test using this link
+https://github.com/aladdinpersson/Mac...​
+
+
 
 [Reference 1](https://www.youtube.com/watch?v=hHWkvEcDBO0)
 
