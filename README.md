@@ -16,7 +16,7 @@ conda create --name tf_2.4 python==3.8
 pip install tensorflow
 
 6. Test using this link
-https://github.com/aladdinpersson/Mac...​
+(https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py)[https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py]
 
 
 
