@@ -81,6 +81,9 @@ conda install python=3.8
 conda install -c anaconda cudatoolkit=10.1
 pip install tensorflow-gpu==2.2
 conda install -c anaconda cudnn=7.6
+
+python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
+
 ````
 [Reference](https://towardsdatascience.com/setting-up-tensorflow-gpu-with-cuda-and-anaconda-onwindows-2ee9c39b5c44)
 
